@@ -5,7 +5,7 @@ Hawaiian Anki.
 https://github.com/ThomasLeigh/HawaiianAnki
 
 > update log:   
-https://github.com/ThomasLeigh/HawaiianAnki/commits/master
+https://github.com/ThomasLeigh/HawaiianAnki/commits/main
 
 > “milestones”:  
 **v.0.1 - 25.03.2021 | 11 notes.**  
@@ -28,7 +28,7 @@ For now I incorporate audio files in an .mp3 format (128kbs; maybe I will change
 ## Updates.
 I’m going to update this deck alongside my progress with Hawaiian course on *Duolingo* mentioned before.
 
-The newest version You’ll always find on [this *GitHub* page][6b], as well as within [*Anki* deck catalog][5].
+The newest version You’ll always find on [this *GitHub* page][6b].
 
 
 ## Contact.
@@ -57,8 +57,6 @@ Regards and have fun!
 [1]: https://lifehacker.com/learn-the-hawaiian-and-navajo-languages-on-duolingo-1829555019
 	"“Learn the Hawaiian and Navajo Languages on Duolingo.”"
 
-[5]: https://ankiweb.net/shared/decks/Hawaiian%20Anki
-	
 [6]: https://github.com/ThomasLeigh/HawaiianAnki/raw/main/Hawaiian%20Anki.apkg
 
 [6b]: https://github.com/ThomasLeigh/HawaiianAnki
