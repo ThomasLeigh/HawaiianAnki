@@ -8,7 +8,7 @@ https://github.com/ThomasLeigh/HawaiianAnki
 https://github.com/ThomasLeigh/HawaiianAnki/commits/main
 
 > “milestones”:  
-**v.0.1 - 25.03.2021 | 11 notes.**  
+**v.0.2 - 27.03.2021 | 35 notes.**  
 
 
 ## Description:
@@ -41,6 +41,8 @@ If You’d like to share Your impressions from using the deck or You have some s
 ## Release history (“milestones”):
 1. v.0.1  
 25.03.2021 | 11 notes;
+2. v.0.2  
+27.03.2021 | 35 notes;
 
 
 
