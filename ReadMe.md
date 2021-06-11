@@ -12,7 +12,7 @@ https://github.com/ThomasLeigh/HawaiianAnki/commits/main
 
 
 ## Description:
-The deck is dedicated for *[Anki][7]* users who are interested in learning Hawaiian language. It is based on a completely free Hawaiian course on *Duolingo* (see [this article][1] for more information).
+The deck is dedicated for *[Anki][7]* users who are interested in learning Hawaiian language. Initially it was based on a completely free Hawaiian course on *Duolingo* (see [this article][1] for more information) - soon after (since v.0.8) I began to include words and tips from a great book *[Learn Hawaiian at Home][8]* (by Kahikāhealani Wight).
 
 For now I incorporate audio files in an .mp3 format (128kbs; maybe I will change it to a little bit lower quality over time).
 
@@ -75,3 +75,5 @@ Regards and have fun!
 
 [7]: https://apps.ankiweb.net#download
 
+[8]: https://1lib.pl/book/2086284/39417e
+	"“Learn Hawaiian at Home” by Kahikāhealani Wight."
